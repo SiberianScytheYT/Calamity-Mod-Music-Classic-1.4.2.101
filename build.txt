@@ -1,0 +1,8 @@
+author = The Calamity Dev Team
+version = 1.0.0.000
+displayName = Calamity Mod Classic 1.4.2.101 Music
+homepage = https://forums.terraria.org/index.php?threads/calamity-mod.44065/
+hideCode = false
+hideResources = false
+includeSource = true
+includePDB = true
