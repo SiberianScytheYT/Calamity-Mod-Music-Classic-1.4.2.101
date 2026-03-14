@@ -198,6 +198,11 @@ Items: {
 		Tooltip: ""
 		DisplayName: Music Box (Lower Abyss)
 	}
+
+	CultistMusicbox: {
+		Tooltip: ""
+		DisplayName: Music Box (Cultist)
+	}
 }
 
 Tiles: {
@@ -241,4 +246,5 @@ Tiles: {
 	AstrageldonMusicbox.MapEntry: Music Box
 	AquaticScourgeMusicbox.MapEntry: Music Box
 	AbyssLowerMusicbox.MapEntry: Music Box
+	CultistMusicbox.MapEntry: Music Box
 }
